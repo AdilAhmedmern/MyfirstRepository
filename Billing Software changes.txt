@@ -1,0 +1,27 @@
+1.Need a Plain Invoice in the navigation Bar (Side Bar) DONE
+2.Need WhatsApp Integration for sending invoice on WhatsApp
+3.Need a Quotation Module in navigation Bar (DONE)
+4.Changes in Invoice (GST BILL -- CGST,SGST & IGST)
+5.Auto fill feature in invoice generation
+6.Raw material Deduction when the product is ready
+7.Remove Description from everywhere
+8.Search feature not working
+9.Need a new module for party details (new section in navigation bar)
+10.Unregistered GST
+11.Cash ,Cheque & Online (Payment in invoice) 
+12.Buying party details (Date wise)
+13.Pending Money Records .
+14.Changes in bill (Sign,Bank Account & t&C)
+
+------------------New Changes----------
+12 Items in bill
+Total Remaining Balance
+Purchase Balance Amount
+Sell & Purchase Party Different
+HSN in Bill
+Old Bill Design
+Show Total before submit
+WhatsApp
+Emergency Selling
+Change Design of Plain Invoice
+Different GST Bill for Alizba & KSN
